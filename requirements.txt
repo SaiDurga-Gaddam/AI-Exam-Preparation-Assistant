@@ -1,1 +1,5 @@
-streamlit>=1.35.0\ngroq>=0.9.0\npython-dotenv>=1.0.0\npypdf>=4.2.0\n
+
+streamlit>=1.35.0
+groq>=0.9.0
+python-dotenv>=1.0.0
+pypdf>=4.2.0
